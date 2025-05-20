@@ -53,6 +53,7 @@
         "0bc71914-64c8-4f2f-b6e0-a3b9f95f48fa",
         "545aeeaa-3c98-4b79-8c88-aa603796c308"
       ],
+      "disabled": true,
       "settings": {
         "announcement_bar_position": "non_sticky",
         "announcement_text_size": "large",

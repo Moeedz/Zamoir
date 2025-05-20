@@ -74,7 +74,7 @@
         "navigation_menu": "main-menu",
         "sidebar_navigation_menu": "",
         "header_layout": "logo_center_navigation_inline",
-        "show_icons": true,
+        "show_icons": false,
         "reduce_desktop_padding": false,
         "show_locale_selector": false,
         "show_country_selector": false,

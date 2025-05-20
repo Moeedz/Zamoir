@@ -53,7 +53,7 @@
     "product_color_display": "count",
     "product_image_size": "tall",
     "cart_type": "drawer",
-    "cart_icon": "shopping_bag",
+    "cart_icon": "tote_bag",
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "",
     "favicon": "shopify://shop_images/Mivora_PB.png",

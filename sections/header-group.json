@@ -66,6 +66,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "a.header__icon-wrapper.tap-area.hidden-desk[href=\"/search\"] {display: none !important;}"
+      ],
       "settings": {
         "enable_sticky_header": true,
         "logo": "shopify://shop_images/Zamoir-yellow-Without-tagline_cf2f9ef0-f008-4863-a04b-bb87d7d7d18f.svg",

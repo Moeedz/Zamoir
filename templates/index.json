@@ -47,7 +47,7 @@
         "product_7D8pwa": {
           "type": "product",
           "settings": {
-            "product": "zamoir-starter-pack",
+            "product": "",
             "badge": "Badge",
             "title": "Title",
             "details": "<p>Product details</p>",
@@ -57,7 +57,7 @@
         "product_7reNhp": {
           "type": "product",
           "settings": {
-            "product": "zamoir-premium-pack",
+            "product": "",
             "badge": "Badge",
             "title": "Title",
             "details": "<p>Product details</p>",
@@ -67,7 +67,7 @@
         "product_HtcHxk": {
           "type": "product",
           "settings": {
-            "product": "zamoir-ultimate-pack",
+            "product": "",
             "badge": "Badge",
             "title": "Title",
             "details": "<p>Product details</p>",
@@ -99,7 +99,7 @@
         "arrow_hover_effect": "color",
         "arrow_show_desktop": false,
         "arrow_show_mobile": false,
-        "collection": "",
+        "collection": "themes",
         "collection_show": 4,
         "slider_view": 3,
         "slider_view_mobile": 1.3,

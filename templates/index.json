@@ -83,6 +83,9 @@
         "product_7reNhp",
         "product_HtcHxk"
       ],
+      "custom_css": [
+        "p.featured-product-button-inner-template--24694647062818__ss_featured_collection_17_nCjn9Y {font-weight: bold !important;}"
+      ],
       "name": "SS - Featured collection #17",
       "settings": {
         "heading": "<h2>Heading</h2>",

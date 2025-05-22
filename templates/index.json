@@ -242,6 +242,9 @@
       "block_order": [
         "item_nbanb8"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.image-with-text__content-wrapper {padding-left: 0 !important;}}"
+      ],
       "name": "Image with text",
       "settings": {
         "reveal_on_scroll": true,

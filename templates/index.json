@@ -51,7 +51,7 @@
             "image": "shopify://shop_images/Starter-Pack.png",
             "badge": "",
             "title": "Zamoir Starter Pack",
-            "details": "<p>Product details</p>",
+            "details": "",
             "url": ""
           }
         },
@@ -70,10 +70,10 @@
           "type": "product",
           "settings": {
             "product": "zamoir-ultimate-pack",
-            "image": "shopify://shop_images/Premium-Pack_6f930005-c3aa-42b3-b03f-84032e6c1ac4.png",
+            "image": "shopify://shop_images/Ultimate-Pack.png",
             "badge": "",
             "title": "Zamoir Ultimate Pack",
-            "details": "<p>Product details</p>",
+            "details": "",
             "url": ""
           }
         }
@@ -129,7 +129,7 @@
         "content_padding_horizontal_mobile": 24,
         "content_padding_vertical": 24,
         "content_padding_vertical_mobile": 24,
-        "content_align": "left",
+        "content_align": "center",
         "content_align_mobile": "left",
         "title_custom": false,
         "title_font": "josefin_sans_n4",
@@ -167,7 +167,7 @@
         "product_button_mt": 16,
         "product_button_mt_mobile": 10,
         "product_button_style": "outline",
-        "shipping_text": "<p>Caption</p>",
+        "shipping_text": "",
         "shipping_text_custom": false,
         "shipping_text_font": "josefin_sans_n4",
         "shipping_text_size": 12,
@@ -209,9 +209,9 @@
         "badge_color": "#121212",
         "badge_bg_color": "#ffffff",
         "badge_border_color": "#121212",
-        "product_button_color": "#121212",
+        "product_button_color": "#fec408",
         "product_button_hover_color": "#ffffff",
-        "product_button_bg_color": "#ffffff",
+        "product_button_bg_color": "#1a1a1a",
         "product_button_bg_hover_color": "#121212",
         "product_button_border_color": "#121212",
         "product_button_border_hover_color": "#121212",

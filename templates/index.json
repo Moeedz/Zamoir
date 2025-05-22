@@ -204,7 +204,7 @@
         "price_original_color": "#afafaf",
         "text_color": "#121212",
         "shipping_text_color": "#121212",
-        "slide_bg_color": "#ffffff",
+        "slide_bg_color": "rgba(0,0,0,0)",
         "slide_border_color": "#121212",
         "badge_color": "#121212",
         "badge_bg_color": "#ffffff",

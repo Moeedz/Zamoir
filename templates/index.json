@@ -231,11 +231,11 @@
           "type": "item",
           "settings": {
             "tab_label": "Item",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
-            "button_text": "",
-            "button_link": ""
+            "subheading": "Why HIRE US?",
+            "title": "Less Talk. More Results.",
+            "content": "<p>We build fast, clean, conversion-focused Shopify stores.<br/>No noise — just performance that speaks.</p>",
+            "button_text": "Hire Us",
+            "button_link": "shopify://pages/hire-us"
           }
         }
       },

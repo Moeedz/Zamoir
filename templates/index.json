@@ -60,7 +60,7 @@
           "settings": {
             "product": "zamoir-premium-pack",
             "image": "shopify://shop_images/Premium-Pack.png",
-            "badge": "",
+            "badge": "Hot Selling",
             "title": "Zamoir Premium Pack",
             "details": "",
             "url": ""
@@ -133,7 +133,7 @@
         "content_padding_vertical": 24,
         "content_padding_vertical_mobile": 24,
         "content_align": "center",
-        "content_align_mobile": "left",
+        "content_align_mobile": "center",
         "title_custom": false,
         "title_font": "josefin_sans_n4",
         "title_size": 16,
@@ -155,7 +155,7 @@
         "text_mt": 6,
         "text_mt_mobile": 4,
         "text_max_length": 0,
-        "product_button_text": "Shop now",
+        "product_button_text": "Select Plan",
         "product_button_custom": false,
         "product_button_font": "josefin_sans_n4",
         "product_button_size": 13,

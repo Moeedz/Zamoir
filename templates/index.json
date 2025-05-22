@@ -110,7 +110,7 @@
         "slider_mt_mobile": 12,
         "slide_border_thickness": 0,
         "slide_radius": 8,
-        "slide_shadow": true,
+        "slide_shadow": false,
         "image_ratio": "original",
         "image_ratio_mobile": "original",
         "show_badge": true,

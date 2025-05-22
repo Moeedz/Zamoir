@@ -221,7 +221,7 @@
         "content_width": 1200,
         "border_thickness": 0,
         "section_radius": 0,
-        "lazy": true
+        "lazy": false
       }
     }
   },

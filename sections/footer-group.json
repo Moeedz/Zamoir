@@ -104,7 +104,8 @@
         "p.footer__item-title.heading.heading--small {font-weight: bold !important; font-size: 22px !important;}",
         "li.linklist__item a {font-family: \"Poppins\" !important; text-transform: capitalize !important;}",
         ".footer__item-content a {font-family: \"Poppins\" !important; text-transform: lowercase !important;}",
-        ".footer__aside {display: none !important;}"
+        ".footer__aside {display: none !important;}",
+        "@media screen and (max-width: 767px) {.footer__item-list {display: flex !important; flex-flow: column !important; text-align: -webkit-center !important;}}"
       ],
       "settings": {
         "show_payment_icons": true,

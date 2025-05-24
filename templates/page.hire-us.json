@@ -15,9 +15,29 @@
         "show_title": true,
         "page_width": "medium"
       }
+    },
+    "1748072431d8cbf46d": {
+      "type": "apps",
+      "blocks": {
+        "sk_form_builder_form_9tTeWH": {
+          "type": "shopify://apps/sk-form-builder/blocks/form/f3e35b58-5874-4ef2-8e03-c92cda6e49eb",
+          "settings": {
+            "show_form": true,
+            "form_token": "3772525878393235"
+          }
+        }
+      },
+      "block_order": [
+        "sk_form_builder_form_9tTeWH"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1748072431d8cbf46d"
   ]
 }

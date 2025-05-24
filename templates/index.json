@@ -230,7 +230,7 @@
         "item_nbanb8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/banner.png",
+            "image": "shopify://shop_images/banner_7ebdb722-4bf7-4ceb-9890-4d51ab5939f4.jpg",
             "tab_label": "Item",
             "subheading": "Why HIRE US?",
             "title": "Less Talk, More Results",
@@ -238,22 +238,10 @@
             "button_text": "Hire Us",
             "button_link": "shopify://pages/hire-us"
           }
-        },
-        "item_E4Wh33": {
-          "type": "item",
-          "settings": {
-            "tab_label": "Item",
-            "subheading": "Subheading",
-            "title": "Image with text",
-            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "item_nbanb8",
-        "item_E4Wh33"
+        "item_nbanb8"
       ],
       "custom_css": [],
       "name": "Image with text",
@@ -264,7 +252,7 @@
         "image_position": "left",
         "text_alignment": "left",
         "cycle_speed": 8,
-        "accent_background": "#ffffff",
+        "accent_background": "#1a1a1a",
         "text_color": "rgba(0,0,0,0)",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"

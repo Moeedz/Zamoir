@@ -18,18 +18,32 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ direction }}">
   <head>
     <script>
-const observer = new MutationObserver(() => {
-  const logoWrapper = document.querySelector(".sk-logo-wrapper");
-  if (logoWrapper) {
-    logoWrapper.style.setProperty("display", "none", "important");
-    observer.disconnect(); // Stop observing once done
-  }
-});
+<script>
+  const forceHideLogo = () => {
+    const el = document.querySelector(".sk-logo-wrapper");
+    if (el) {
+      el.style.setProperty("display", "none", "important");
+    }
+  };
 
-observer.observe(document.body, {
-  childList: true,
-  subtree: true
-});
+  // Run immediately in case it's already there
+  forceHideLogo();
+
+  // Keep observing the DOM for changes
+  const observer = new MutationObserver((mutations) => {
+    mutations.forEach(() => {
+      forceHideLogo();
+    });
+  });
+
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ['style']
+  });
+</script>
+
     </script>
     <style>
      a.header__linklist-link.link--animated.active {

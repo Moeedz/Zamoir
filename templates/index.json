@@ -298,6 +298,9 @@
         "image_YbCUkf",
         "image_W6eHxP"
       ],
+      "custom_css": [
+        ".scrolling-image-content-template--24694647062818__ss_scrolling_images_McBic8 {display: none !important;}"
+      ],
       "name": "SS - Scrolling images",
       "settings": {
         "heading": "<h2>Trusted Brands</h2>",
@@ -348,7 +351,7 @@
         "full_width": true,
         "content_width": 120,
         "border_thickness": 0,
-        "lazy": true
+        "lazy": false
       }
     }
   },

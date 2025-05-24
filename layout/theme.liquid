@@ -18,11 +18,17 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ direction }}">
   <head>
     <script>
-      document.addEventListener("DOMContentLoaded", function () {
+const observer = new MutationObserver(() => {
   const logoWrapper = document.querySelector(".sk-logo-wrapper");
   if (logoWrapper) {
     logoWrapper.style.setProperty("display", "none", "important");
+    observer.disconnect(); // Stop observing once done
   }
+});
+
+observer.observe(document.body, {
+  childList: true,
+  subtree: true
 });
     </script>
     <style>

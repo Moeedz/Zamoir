@@ -82,6 +82,11 @@
         "type": "shopify://apps/rt-google-fonts-custom-fonts/blocks/app-embed/2caf2c68-0038-455e-b0b9-066a7c2ad923",
         "disabled": false,
         "settings": {}
+      },
+      "11212335281082087862": {
+        "type": "shopify://apps/sk-form-builder/blocks/app/f3e35b58-5874-4ef2-8e03-c92cda6e49eb",
+        "disabled": false,
+        "settings": {}
       }
     }
   },

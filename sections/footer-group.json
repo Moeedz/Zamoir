@@ -79,6 +79,13 @@
             "content": "<p>Product / Service support:</p><p><a href=\"mailto:support@zamoir.com\" title=\"mailto:support@zamoir.com\">support@zamoir.com</a></p>"
           }
         },
+        "social_media_XEfPXK": {
+          "type": "social_media",
+          "settings": {
+            "title": "Follow us",
+            "content": ""
+          }
+        },
         "image_jH3ABD": {
           "type": "image",
           "settings": {
@@ -90,6 +97,7 @@
       "block_order": [
         "links",
         "text",
+        "social_media_XEfPXK",
         "image_jH3ABD"
       ],
       "custom_css": [

@@ -78,6 +78,9 @@
         "question_hmdfbR",
         "question_AEUaJe"
       ],
+      "custom_css": [
+        "h1.heading.h2 {text-transform: unset !important;}"
+      ],
       "name": "FAQ",
       "settings": {
         "show_navigation": false,

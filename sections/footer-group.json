@@ -94,7 +94,9 @@
       ],
       "custom_css": [
         "p.footer__item-title.heading.heading--small {font-weight: bold !important; font-size: 22px !important;}",
-        "li.linklist__item a {font-family: 'Poppins' !important; text-transform: capitalize !important;}"
+        "li.linklist__item a {font-family: \"Poppins\" !important; text-transform: capitalize !important;}",
+        ".footer__item-content a {font-family: \"Poppins\" !important; text-transform: lowercase !important;}",
+        ".footer__aside {display: none !important;}"
       ],
       "settings": {
         "show_payment_icons": true,

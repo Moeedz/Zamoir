@@ -17,6 +17,14 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 
 <html class="no-js" lang="{{ request.locale.iso_code }}" dir="{{ direction }}">
   <head>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+  const logoWrapper = document.querySelector(".sk-logo-wrapper");
+  if (logoWrapper) {
+    logoWrapper.style.setProperty("display", "none", "important");
+  }
+});
+    </script>
     <style>
      a.header__linklist-link.link--animated.active {
     color: #fec408 !important;

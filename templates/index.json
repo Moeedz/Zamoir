@@ -65,7 +65,8 @@
         "product_HtcHxk"
       ],
       "custom_css": [
-        "p.featured-product-button-inner-template--24694647062818__ss_featured_collection_17_nCjn9Y {font-weight: bold !important;}"
+        "p.featured-product-button-inner-template--24694647062818__ss_featured_collection_17_nCjn9Y {font-weight: bold !important;}",
+        ".featured-heading-template--24694647062818__ss_featured_collection_17_nCjn9Y {padding-bottom: 35px !important;}"
       ],
       "name": "SS - Featured collection #17",
       "settings": {

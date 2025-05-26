@@ -292,6 +292,7 @@
         },
         "image_W6eHxP": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Logo-5.jpg",
             "url": ""

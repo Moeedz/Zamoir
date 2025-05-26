@@ -67,7 +67,7 @@
       "custom_css": [
         "p.featured-product-button-inner-template--24694647062818__ss_featured_collection_17_nCjn9Y {font-weight: bold !important;}",
         ".featured-heading-template--24694647062818__ss_featured_collection_17_nCjn9Y {padding-bottom: 35px !important;}",
-        "@media screen and (min-width: 768px) {.featured-heading-template--24694647062818__ss_featured_collection_17_nCjn9Y h2 {padding-bottom: 35px !important; padding-top: 30px !important;}}"
+        "@media screen and (min-width: 768px) {.featured-heading-template--24694647062818__ss_featured_collection_17_nCjn9Y h2 {padding-bottom: 35px !important; padding-top: 30px !important; }}"
       ],
       "name": "SS - Featured collection #17",
       "settings": {
@@ -207,8 +207,8 @@
         "button_bg_hover_color": "#121212",
         "button_border_color": "#121212",
         "button_border_hover_color": "#121212",
-        "heading_color": "#121212",
-        "background_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "background_color": "#1e1e1e",
         "background_gradient": "",
         "border_color": "#121212",
         "margin_top": 0,

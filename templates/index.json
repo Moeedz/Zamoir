@@ -321,7 +321,7 @@
         "pause_hover": false,
         "image_width_desktop": 300,
         "image_width_mobile": 180,
-        "image_height_desktop": 200,
+        "image_height_desktop": 120,
         "image_height_mobile": 50,
         "image_radius": 10,
         "use_content": true,

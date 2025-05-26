@@ -344,7 +344,7 @@
         "slider_speed": 20,
         "slider_gap": 10,
         "slider_gap_mobile": 10,
-        "slider_mt": 50,
+        "slider_mt": 30,
         "slider_direction": "left",
         "pause_hover": false,
         "image_width_desktop": 300,

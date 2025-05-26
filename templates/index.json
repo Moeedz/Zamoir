@@ -265,35 +265,56 @@
         "image_tYcffW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-05-26_at_22.14.51_556b3131.jpg",
+            "image": "shopify://shop_images/Logo-1.jpg",
             "url": ""
           }
         },
         "image_TBEkng": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-05-26_at_22.15.40_3eab039c.jpg",
+            "image": "shopify://shop_images/Logo-2.jpg",
             "url": ""
           }
         },
         "image_ATTnqM": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-05-26_at_22.25.41_521f2e4f.jpg",
+            "image": "shopify://shop_images/Logo-3.jpg",
             "url": ""
           }
         },
         "image_YbCUkf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-05-26_at_22.23.30_5d0e1d4b.jpg",
+            "image": "shopify://shop_images/Logo-4.jpg",
             "url": ""
           }
         },
         "image_W6eHxP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-05-26_at_22.23.31_e184ff76.jpg",
+            "image": "shopify://shop_images/Logo-5.jpg",
+            "url": ""
+          }
+        },
+        "image_c3DBYk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo-6.jpg",
+            "url": ""
+          }
+        },
+        "image_nXbBAY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo-7.jpg",
+            "url": ""
+          }
+        },
+        "image_rXVgiR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Logo-8.jpg",
             "url": ""
           }
         }
@@ -303,7 +324,10 @@
         "image_TBEkng",
         "image_ATTnqM",
         "image_YbCUkf",
-        "image_W6eHxP"
+        "image_W6eHxP",
+        "image_c3DBYk",
+        "image_nXbBAY",
+        "image_rXVgiR"
       ],
       "custom_css": [
         ".scrolling-image-content-template--24694647062818__ss_scrolling_images_McBic8 {display: none !important;}"

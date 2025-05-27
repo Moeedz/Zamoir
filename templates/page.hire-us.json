@@ -79,7 +79,8 @@
         "question_AEUaJe"
       ],
       "custom_css": [
-        "h1.heading.h2 {text-transform: unset !important;}"
+        "h1.heading.h2 {text-transform: unset !important;}",
+        ".vertical-breather {padding-top: 0 !important;}"
       ],
       "name": "FAQ",
       "settings": {

@@ -234,7 +234,7 @@
           "settings": {
             "icon": "atc",
             "count_from": "1",
-            "count_to": "50",
+            "count_to": "20",
             "prefix": "",
             "suffix": "+",
             "title": "Team Members",
@@ -246,7 +246,7 @@
           "settings": {
             "icon": "atc",
             "count_from": "1",
-            "count_to": "15",
+            "count_to": "10",
             "prefix": "",
             "suffix": "+",
             "title": "Years of Experience",
@@ -270,10 +270,10 @@
           "settings": {
             "icon": "atc",
             "count_from": "1",
-            "count_to": "150",
-            "prefix": "",
-            "suffix": "",
-            "title": "Blog Posts",
+            "count_to": "50",
+            "prefix": "$",
+            "suffix": "k+",
+            "title": "Sales in 1st Month",
             "url": ""
           }
         }
@@ -284,9 +284,13 @@
         "card_J8bWAq",
         "card_UkDbL3"
       ],
+      "custom_css": [
+        ".feature-count-text-template--24694647062818__ss_feature_27_Dxc47E {margin-top: 0 !important;}",
+        ".feature-count-wrapper-template--24694647062818__ss_feature_27_Dxc47E {gap: 0 !important;}"
+      ],
       "name": "SS - Feature #27",
       "settings": {
-        "heading": "<h2>Feature #27</h2>",
+        "heading": "",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -296,10 +300,10 @@
         "heading_align_mobile": "center",
         "cards_per_row": 4,
         "cards_per_row_mobile": "2",
-        "cards_max_width": 80,
-        "cards_gap": 20,
+        "cards_max_width": 100,
+        "cards_gap": 28,
         "cards_gap_mobile": 20,
-        "cards_mt": 40,
+        "cards_mt": 16,
         "cards_mt_mobile": 32,
         "cards_align": "center",
         "card_padding_horizontal": 20,
@@ -307,7 +311,7 @@
         "card_padding_vertical": 30,
         "card_padding_vertical_mobile": 30,
         "card_radius": 10,
-        "card_border_thickness": 0,
+        "card_border_thickness": 1,
         "card_content_align": "center",
         "card_content_align_mobile": "center",
         "icon_width": 52,
@@ -328,17 +332,17 @@
         "title_mt": 10,
         "title_mt_mobile": 8,
         "icon_color": "#000000",
-        "icon_hover_color": "#FFFFFF",
+        "icon_hover_color": "#ffffff",
         "count_color": "#000000",
-        "count_hover_color": "#FFFFFF",
+        "count_hover_color": "#fec408",
         "title_color": "#000000",
-        "title_hover_color": "#FFFFFF",
-        "card_bg_color": "#FFFFFF",
-        "card_bg_hover_color": "#000000",
-        "card_border_color": "#000000",
-        "card_border_hover_color": "#000000",
+        "title_hover_color": "#ffffff",
+        "card_bg_color": "#ffffff",
+        "card_bg_hover_color": "#1e1e1e",
+        "card_border_color": "#ffffff",
+        "card_border_hover_color": "#ffffff",
         "heading_color": "#000000",
-        "background_color": "#F7F7F7",
+        "background_color": "#1e1e1e",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -346,14 +350,14 @@
         "margin_horizontal": 0,
         "margin_horizontal_mobile": 0,
         "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_bottom": 48,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
         "full_width": false,
         "content_width": 1200,
         "border_thickness": 0,
         "section_radius": 0,
-        "lazy": true
+        "lazy": false
       }
     },
     "image_with_text_xDGCcQ": {

@@ -18,6 +18,10 @@
             "low_inventory_threshold": 0
           }
         },
+        "quantity_selector_8RyGKm": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -37,19 +41,13 @@
             "buy_now_button_background": "rgba(0,0,0,0)",
             "buy_now_button_text_color": "rgba(0,0,0,0)"
           }
-        },
-        "5b5f29fd-4df5-40a3-8032-5a4bd185072b": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<img src=\"https://cdn.shopify.com/s/files/1/0710/8096/8460/files/KostenloserVersand_Umtausch-3_2048x2048.png?v=1701306086\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0710/8096/8460/files/KostenloserVersand_Umtausch-3_2048x2048.png?v=1701306086\">"
-          }
         }
       },
       "block_order": [
         "79f59e69-c0a7-44b7-a418-53eab877b449",
+        "quantity_selector_8RyGKm",
         "variant_picker",
-        "buy_buttons",
-        "5b5f29fd-4df5-40a3-8032-5a4bd185072b"
+        "buy_buttons"
       ],
       "settings": {
         "show_vendor": false,
@@ -57,7 +55,7 @@
         "show_taxes_included": true,
         "show_product_rating": true,
         "show_sticky_add_to_cart": true,
-        "show_share_buttons": false,
+        "show_share_buttons": true,
         "help_page": "",
         "enable_video_autoplay": false,
         "enable_video_looping": false,
@@ -102,7 +100,6 @@
         "template--18488741593356__3acbed45-0150-4bc5-aacb-1cb0c5292ace-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ezgif.com-optimize-3.gif",
             "tab_label": "",
             "subheading": "",
             "title": "Leichtigkeit & Tragekomfort",
@@ -134,7 +131,6 @@
         "template--18488741593356__267a48dc-1b4f-4ea6-a377-2afd26f089bb-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "tab_label": "Item",
             "subheading": "",
             "title": "Superstarker Powerakku",
@@ -166,7 +162,6 @@
         "template--18488741593356__f88c8bbd-3342-4e92-bb27-5a017fbacfc1-item-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "tab_label": "Item",
             "subheading": "",
             "title": "Innovation am Handgelenk",
@@ -178,70 +173,6 @@
       },
       "block_order": [
         "template--18488741593356__f88c8bbd-3342-4e92-bb27-5a017fbacfc1-item-1"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "image",
-        "image_position": "left",
-        "text_alignment": "center",
-        "cycle_speed": 8,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "31f2ca15-46b0-4c7c-b5ae-53b5846bf7dd": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18488741593356__31f2ca15-46b0-4c7c-b5ae-53b5846bf7dd-item-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_3b28028c-c313-449f-9268-d6c36d0d60c2.png",
-            "tab_label": "",
-            "subheading": "",
-            "title": "Personalisiere mit 100 Watchfaces deine Uhr",
-            "content": "<p>Die <strong>Vielfalt </strong>selbst wählbarer Zifferblätter verleiht deiner Uhr eine unvergleichliche <strong>Eleganz</strong>. Über <strong>100 Watchfaces</strong> bieten unzählige Möglichkeiten für individuelle Gestaltung. Du bestimmst, welche Werte auf dem Display angezeigt werden.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18488741593356__31f2ca15-46b0-4c7c-b5ae-53b5846bf7dd-item-1"
-      ],
-      "settings": {
-        "reveal_on_scroll": true,
-        "background_type": "full_width",
-        "background_overlap": "image",
-        "image_position": "right",
-        "text_alignment": "center",
-        "cycle_speed": 8,
-        "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "8fd2ef58-d588-4807-88d4-b6002abbe62f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18488741593356__8fd2ef58-d588-4807-88d4-b6002abbe62f-item-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4.png",
-            "tab_label": "Item",
-            "subheading": "",
-            "title": "Kompatibel mit allen Smartphone-Marken",
-            "content": "<p>Die SmartWatch ist mit einer Vielzahl von Handy-Marken wie <strong>Apple, Samsung, Xiaomi</strong> und <strong>Huawei</strong> kompatibel. Verbinde deine Smartwatch problemlos mit deinem Smartphone und erlebe die ganze Bandbreite der <strong>30</strong> verfügbaren <strong>Apps</strong> und <strong>Funktionen</strong>.</p>",
-            "button_text": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18488741593356__8fd2ef58-d588-4807-88d4-b6002abbe62f-item-1"
       ],
       "settings": {
         "reveal_on_scroll": true,
@@ -332,8 +263,6 @@
     "3acbed45-0150-4bc5-aacb-1cb0c5292ace",
     "267a48dc-1b4f-4ea6-a377-2afd26f089bb",
     "f88c8bbd-3342-4e92-bb27-5a017fbacfc1",
-    "31f2ca15-46b0-4c7c-b5ae-53b5846bf7dd",
-    "8fd2ef58-d588-4807-88d4-b6002abbe62f",
     "ea3969f8-b6ed-460b-b7d1-3669ac93d7b8",
     "170103446944ead705"
   ]

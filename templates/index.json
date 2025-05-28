@@ -231,11 +231,12 @@
           "type": "card",
           "settings": {
             "icon": "atc",
+            "custom_icon": "shopify://shop_images/user_icon_007-removebg-preview.png",
             "count_from": "1",
             "count_to": "20",
             "prefix": "",
             "suffix": "+",
-            "title": "<b>Team Members</b>",
+            "title": "Team Members",
             "url": ""
           }
         },
@@ -311,7 +312,7 @@
         "card_border_thickness": 2,
         "card_content_align": "center",
         "card_content_align_mobile": "center",
-        "icon_width": 52,
+        "icon_width": 84,
         "icon_width_mobile": 48,
         "count_custom": false,
         "count_font": "josefin_sans_n4",
@@ -377,7 +378,7 @@
         "item_nbanb8"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.image-with-text__image-wrapper {width: 45% !important;}}"
+        "@media screen and (min-width: 768px) {.image-with-text__image-wrapper {width: 45% !important; }}"
       ],
       "settings": {
         "reveal_on_scroll": true,

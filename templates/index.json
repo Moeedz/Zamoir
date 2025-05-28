@@ -275,7 +275,7 @@
             "count_to": "50",
             "prefix": "$",
             "suffix": "k+",
-            "title": "Sales in 1st Month",
+            "title": "<b>Sales in 1st Month</b>",
             "url": ""
           }
         }

@@ -11,12 +11,11 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_image": true,
         "show_collection_title": true,
         "show_collection_description": true,
-        "section_height": "small",
+        "section_height": "auto",
         "text_width": "medium",
         "image_text_color": "#ffffff",
         "image_overlay_color": "#000000",
@@ -27,7 +26,7 @@
     "main": {
       "type": "main-collection",
       "custom_css": [
-        "@media screen and (min-width: 768px) {.product-list__inner {display: flex !important; } product-item.product-item {width: 33% !important;}}"
+        "@media screen and (min-width: 768px) {.product-list__inner {display: flex !important; } product-item.product-item {width: 33% !important; }}"
       ],
       "settings": {
         "show_sort_by": true,

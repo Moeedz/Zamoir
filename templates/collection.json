@@ -26,7 +26,9 @@
     },
     "main": {
       "type": "main-collection",
-      "disabled": true,
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.product-list__inner {display: flex !important;}}"
+      ],
       "settings": {
         "show_sort_by": true,
         "products_per_page": 24,
@@ -40,178 +42,10 @@
         "promotion_position": "top",
         "promotion_height": "small"
       }
-    },
-    "featured_product_rGy3hg": {
-      "type": "featured-product",
-      "blocks": {
-        "variant_picker_nDpHhm": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_hnenJY": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_yrdMP7": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "buy_now_button_background": "rgba(0,0,0,0)",
-            "buy_now_button_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "variant_picker_nDpHhm",
-        "quantity_selector_hnenJY",
-        "buy_buttons_yrdMP7"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "product": "zamoir-starter-pack",
-        "subheading": "",
-        "title": "",
-        "show_vendor": true,
-        "show_sku": false,
-        "show_taxes_included": false,
-        "show_product_rating": false,
-        "show_share_buttons": true,
-        "help_page": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "bottom",
-        "transition_effect": "slide",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "featured_product_nBptpT": {
-      "type": "featured-product",
-      "blocks": {
-        "variant_picker_ekUkHR": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_c3nbki": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_eMhgca": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "buy_now_button_background": "rgba(0,0,0,0)",
-            "buy_now_button_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "variant_picker_ekUkHR",
-        "quantity_selector_c3nbki",
-        "buy_buttons_eMhgca"
-      ],
-      "custom_css": [
-        ".product.product--featured.product--thumbnails-bottom {flex-flow: row-reverse !important;}"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "product": "zamoir-premium-pack",
-        "subheading": "",
-        "title": "",
-        "show_vendor": true,
-        "show_sku": false,
-        "show_taxes_included": false,
-        "show_product_rating": false,
-        "show_share_buttons": true,
-        "help_page": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "bottom",
-        "transition_effect": "slide",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
-    },
-    "featured_product_T8rF8k": {
-      "type": "featured-product",
-      "blocks": {
-        "variant_picker_HqKWpe": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
-        },
-        "quantity_selector_Vfdx4f": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_nkfEPr": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": false,
-            "atc_button_background": "rgba(0,0,0,0)",
-            "atc_button_text_color": "rgba(0,0,0,0)",
-            "buy_now_button_background": "rgba(0,0,0,0)",
-            "buy_now_button_text_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "variant_picker_HqKWpe",
-        "quantity_selector_Vfdx4f",
-        "buy_buttons_nkfEPr"
-      ],
-      "name": "Featured product",
-      "settings": {
-        "product": "zamoir-ultimate-pack",
-        "subheading": "",
-        "title": "",
-        "show_vendor": true,
-        "show_sku": false,
-        "show_taxes_included": false,
-        "show_product_rating": false,
-        "show_share_buttons": true,
-        "help_page": "",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "show_thumbnails_on_mobile": false,
-        "desktop_thumbnails_position": "bottom",
-        "transition_effect": "slide",
-        "background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)"
-      }
     }
   },
   "order": [
     "collection-banner",
-    "main",
-    "featured_product_rGy3hg",
-    "featured_product_nBptpT",
-    "featured_product_T8rF8k"
+    "main"
   ]
 }

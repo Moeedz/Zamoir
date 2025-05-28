@@ -11,7 +11,6 @@
   "sections": {
     "custom_liquid_GBHrMG": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "subheading": "",
         "title": "",
@@ -69,7 +68,6 @@
         ".featured-heading-template--24694647062818__ss_featured_collection_17_nCjn9Y {padding-bottom: 35px !important;}",
         "@media screen and (min-width: 768px) {.featured-heading-template--24694647062818__ss_featured_collection_17_nCjn9Y h2 {padding-bottom: 20px !important; padding-top: 15px !important; }}"
       ],
-      "name": "SS - Featured collection #17",
       "settings": {
         "heading": "<h2>Choose your plan</h2>",
         "heading_custom": false,
@@ -288,7 +286,6 @@
         ".feature-count-text-template--24694647062818__ss_feature_27_Dxc47E {margin-top: 0 !important;}",
         ".feature-count-wrapper-template--24694647062818__ss_feature_27_Dxc47E {gap: 0 !important;}"
       ],
-      "name": "SS - Feature #27",
       "settings": {
         "heading": "<p><strong>Why Brands Trust Us</strong></p>",
         "heading_custom": false,
@@ -379,8 +376,9 @@
       "block_order": [
         "item_nbanb8"
       ],
-      "custom_css": [],
-      "name": "Image with text",
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.image-with-text__image-wrapper {width: 45% !important;}}"
+      ],
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "boxed",
@@ -468,7 +466,6 @@
       "custom_css": [
         ".scrolling-image-content-template--24694647062818__ss_scrolling_images_McBic8 {display: none !important;}"
       ],
-      "name": "SS - Scrolling images",
       "settings": {
         "heading": "<h2>Trusted Brands</h2>",
         "heading_custom": false,
@@ -523,7 +520,6 @@
     },
     "custom_liquid_4xn6PC": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "subheading": "",
         "title": "Have a Task for us?",

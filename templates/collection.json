@@ -128,6 +128,9 @@
         "quantity_selector_c3nbki",
         "buy_buttons_eMhgca"
       ],
+      "custom_css": [
+        ".product.product--featured.product--thumbnails-bottom {flex-flow: row-reverse !important;}"
+      ],
       "name": "Featured product",
       "settings": {
         "product": "zamoir-premium-pack",

@@ -244,6 +244,7 @@
           "type": "card",
           "settings": {
             "icon": "atc",
+            "custom_icon": "shopify://shop_images/2447089-200.png",
             "count_from": "1",
             "count_to": "10",
             "prefix": "",
@@ -286,7 +287,7 @@
       "custom_css": [
         ".feature-count-text-template--24694647062818__ss_feature_27_Dxc47E {margin-top: 0 !important;}",
         ".feature-count-wrapper-template--24694647062818__ss_feature_27_Dxc47E {gap: 0 !important;}",
-        "@media screen and (min-width: 768px) {.feature-icon-template--24694647062818__ss_feature_27_Dxc47E {margin-left: -13px;}}"
+        "@media screen and (min-width: 768px) {.feature-icon-template--24694647062818__ss_feature_27_Dxc47E {margin-left: -13px; }}"
       ],
       "settings": {
         "heading": "<p><strong>Why Brands Trust Us</strong></p>",

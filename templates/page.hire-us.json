@@ -18,7 +18,6 @@
     },
     "custom_liquid_YQKrY4": {
       "type": "custom-liquid",
-      "name": "Custom Liquid",
       "settings": {
         "subheading": "",
         "title": "",
@@ -58,6 +57,13 @@
             "answer": "<p>We develop on Shopify- the most popular and powerful E-commerce platform. It's easy to use, and has access to a huge amount of marketing tools that significantly increase website conversion</p>"
           }
         },
+        "question_Mqxn7H": {
+          "type": "question",
+          "settings": {
+            "title": "Can you migrate my store from another platform to Shopify?",
+            "answer": "<p>Definitely. We handle migrations from WooCommerce, Wix, Squarespace, and more, ensuring a smooth transition.</p>"
+          }
+        },
         "question_hmdfbR": {
           "type": "question",
           "settings": {
@@ -71,18 +77,66 @@
             "title": "How long will development take?",
             "answer": "<p>It depends on the complexity, but on average website development takes 3-10 days.</p>"
           }
+        },
+        "question_LHbWXc": {
+          "type": "question",
+          "settings": {
+            "title": "Can you redesign my existing Shopify store?",
+            "answer": "<p>Yes! Whether it's a full overhaul or minor tweaks, we can enhance your current Shopify site’s performance, look, and feel.</p>"
+          }
+        },
+        "question_cdhAU9": {
+          "type": "question",
+          "settings": {
+            "title": "Will my Shopify store be mobile-optimized?",
+            "answer": "<p>Absolutely. All our Shopify sites are responsive and optimized for mobile, tablet, and desktop devices.</p>"
+          }
+        },
+        "question_wkYYHq": {
+          "type": "question",
+          "settings": {
+            "title": "Do you provide product upload and content services?",
+            "answer": "<p>Yes, we can help upload your products, write descriptions, optimize images, and structure your collections.</p>"
+          }
+        },
+        "question_w3J8Um": {
+          "type": "question",
+          "settings": {
+            "title": "Can I update the site myself after it’s built?",
+            "answer": "<p>Yes, we build with ease-of-use in mind. You’ll be able to make updates on your own, and we also provide tutorials if needed.</p>"
+          }
+        },
+        "question_KkbQFA": {
+          "type": "question",
+          "settings": {
+            "title": "Do you help with Shopify SEO and speed optimization?",
+            "answer": "<p>Yes! SEO setup, site speed optimization, and Google Analytics integration are all part of our service offerings.</p>"
+          }
+        },
+        "question_x3HWxa": {
+          "type": "question",
+          "settings": {
+            "title": "Is ongoing maintenance and support available?",
+            "answer": "<p>We offer optional maintenance plans or ad-hoc support depending on your needs after launch.</p>"
+          }
         }
       },
       "block_order": [
         "question_rMc4jr",
+        "question_Mqxn7H",
         "question_hmdfbR",
-        "question_AEUaJe"
+        "question_AEUaJe",
+        "question_LHbWXc",
+        "question_cdhAU9",
+        "question_wkYYHq",
+        "question_w3J8Um",
+        "question_KkbQFA",
+        "question_x3HWxa"
       ],
       "custom_css": [
         "h1.heading.h2 {text-transform: unset !important;}",
         ".vertical-breather {padding-top: 0 !important;}"
       ],
-      "name": "FAQ",
       "settings": {
         "show_navigation": false,
         "title": "FAQs",

@@ -270,11 +270,12 @@
           "type": "card",
           "settings": {
             "icon": "atc",
+            "custom_icon": "shopify://shop_images/303640-200.png",
             "count_from": "1",
             "count_to": "50",
             "prefix": "$",
             "suffix": "k+",
-            "title": "<b>Sales in 1st Month</b>",
+            "title": "Sales in 1st Month",
             "url": ""
           }
         }

@@ -27,7 +27,7 @@
     "main": {
       "type": "main-collection",
       "custom_css": [
-        "@media screen and (min-width: 768px) {.product-list__inner {display: flex !important;}}"
+        "@media screen and (min-width: 768px) {.product-list__inner {display: flex !important; } product-item.product-item {width: 33% !important;}}"
       ],
       "settings": {
         "show_sort_by": true,

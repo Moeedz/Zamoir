@@ -236,7 +236,7 @@
             "count_to": "20",
             "prefix": "",
             "suffix": "+",
-            "title": "Team Members",
+            "title": "<b>Team Members</b>",
             "url": ""
           }
         },
@@ -285,7 +285,8 @@
       ],
       "custom_css": [
         ".feature-count-text-template--24694647062818__ss_feature_27_Dxc47E {margin-top: 0 !important;}",
-        ".feature-count-wrapper-template--24694647062818__ss_feature_27_Dxc47E {gap: 0 !important;}"
+        ".feature-count-wrapper-template--24694647062818__ss_feature_27_Dxc47E {gap: 0 !important;}",
+        ".feature-icon-template--24694647062818__ss_feature_27_Dxc47E {margin-left: -13px;}"
       ],
       "settings": {
         "heading": "<p><strong>Why Brands Trust Us</strong></p>",
@@ -313,7 +314,7 @@
         "card_content_align": "center",
         "card_content_align_mobile": "center",
         "icon_width": 84,
-        "icon_width_mobile": 48,
+        "icon_width_mobile": 70,
         "count_custom": false,
         "count_font": "josefin_sans_n4",
         "count_size": 36,

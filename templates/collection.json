@@ -27,7 +27,7 @@
       "type": "main-collection",
       "custom_css": [
         "@media screen and (min-width: 768px) {.product-list__inner {display: flex !important; } product-item.product-item {width: 33% !important; }}",
-        ".product-item__image-wrapper:hover .product-item__quick-form button.button.button--outline.button--text.button--full.hidden-touch {background: #1E1E1E !important; color: #fec408 !important; text-transform: uppercase !important; font-family: 'Font-1747759538480' !important; border: unset !important;}"
+        ".product-item__image-wrapper:hover .product-item__quick-form button.button.button--outline.button--text.button--full.hidden-touch, .product-item__quick-buy-button {background: #1e1e1e !important; color: #fec408 !important; text-transform: uppercase !important; font-family: \"Font-1747759538480\" !important; border: unset !important;}"
       ],
       "settings": {
         "show_sort_by": true,

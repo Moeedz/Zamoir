@@ -41,7 +41,7 @@
     "text_font_size": 15,
     "currency_code_enabled": false,
     "show_image_zoom": false,
-    "stagger_products_apparition": false,
+    "stagger_products_apparition": true,
     "stagger_blog_posts_apparition": false,
     "reveal_product_media": false,
     "round_color_swatches": false,

@@ -38,7 +38,7 @@
         "show_color_swatch": true,
         "open_first_filter_group": false,
         "filter_position": "always_visible",
-        "promotion_position": "top",
+        "promotion_position": "bottom",
         "promotion_height": "small"
       }
     }

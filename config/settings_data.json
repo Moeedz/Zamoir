@@ -75,7 +75,7 @@
           "show_checkout_button": true,
           "empty_button_link": "shopify://collections/all",
           "show_recommendations": true,
-          "recommendations_title": "Das könnte dir auch gefallen ..."
+          "recommendations_title": "Recommended for you"
         }
       }
     },

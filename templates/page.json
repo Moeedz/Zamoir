@@ -34,7 +34,8 @@
         "block_fpDVUW"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {
@@ -72,23 +73,24 @@
         "block_N6Fz7m"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {
-        "background-color": "#1e1e1e",
+        "background-color": "#fec408",
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_horizontal": 1.5,
         "text_aligment": "right",
         "section_title_size": 23,
-        "section_color_h2": "#fec408",
+        "section_color_h2": "#1e1e1e",
         "section_text_size": 14,
-        "section_color_p": "#ffffff",
+        "section_color_p": "#1e1e1e",
         "section_btn_size": 14,
         "section_btn_roundness": 0,
-        "btn_color": "#fec408",
-        "btn_text_color": "#1e1e1e",
+        "btn_color": "#1e1e1e",
+        "btn_text_color": "#fec408",
         "section-width": 105
       }
     },
@@ -110,19 +112,20 @@
         "block_qjF3VD"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {
-        "background-color": "#1e1e1e",
+        "background-color": "#fec408",
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_horizontal": 1.5,
         "text_aligment": "left",
         "section_title_size": 23,
-        "section_color_h2": "#fec408",
+        "section_color_h2": "#1e1e1e",
         "section_text_size": 14,
-        "section_color_p": "#ffffff",
+        "section_color_p": "#1e1e1e",
         "section_btn_size": 14,
         "section_btn_roundness": 0,
         "btn_color": "#fec408",
@@ -148,19 +151,20 @@
         "block_VEGhEX"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {
-        "background-color": "#1e1e1e",
+        "background-color": "#fec408",
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_horizontal": 1.5,
         "text_aligment": "right",
         "section_title_size": 23,
-        "section_color_h2": "#fec408",
+        "section_color_h2": "#1e1e1e",
         "section_text_size": 14,
-        "section_color_p": "#ffffff",
+        "section_color_p": "#1e1e1e",
         "section_btn_size": 14,
         "section_btn_roundness": 0,
         "btn_color": "#fec408",
@@ -185,17 +189,21 @@
       "block_order": [
         "block_kwexcH"
       ],
+      "custom_css": [
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}"
+      ],
       "name": "SS - Image/Text overlap",
       "settings": {
-        "background-color": "#1e1e1e",
+        "background-color": "#fec408",
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_horizontal": 1.5,
         "text_aligment": "left",
         "section_title_size": 23,
-        "section_color_h2": "#fec408",
+        "section_color_h2": "#1e1e1e",
         "section_text_size": 14,
-        "section_color_p": "#ffffff",
+        "section_color_p": "#1e1e1e",
         "section_btn_size": 14,
         "section_btn_roundness": 0,
         "btn_color": "#fec408",

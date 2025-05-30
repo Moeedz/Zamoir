@@ -34,7 +34,7 @@
         "block_fpDVUW"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon(5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20%) !important;}"
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {
@@ -51,7 +51,7 @@
         "section_btn_roundness": 0,
         "btn_color": "#fec408",
         "btn_text_color": "#1e1e1e",
-        "section-width": 120
+        "section-width": 80
       }
     },
     "ss_image_with_text_2_YbEpdT": {
@@ -89,7 +89,7 @@
         "section_btn_roundness": 0,
         "btn_color": "#fec408",
         "btn_text_color": "#1e1e1e",
-        "section-width": 120
+        "section-width": 80
       }
     }
   },

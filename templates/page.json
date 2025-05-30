@@ -33,6 +33,9 @@
       "block_order": [
         "block_fpDVUW"
       ],
+      "custom_css": [
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon(5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20%) !important;}"
+      ],
       "name": "SS - Image/Text overlap",
       "settings": {
         "background-color": "#1e1e1e",
@@ -67,6 +70,9 @@
       },
       "block_order": [
         "block_N6Fz7m"
+      ],
+      "custom_css": [
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {

@@ -11,6 +11,9 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+        "h1.heading.h2 {color: white !important;}"
+      ],
       "settings": {
         "show_title": true,
         "page_width": "medium"

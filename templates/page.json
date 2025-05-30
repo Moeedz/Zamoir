@@ -91,11 +91,125 @@
         "btn_text_color": "#1e1e1e",
         "section-width": 105
       }
+    },
+    "ss_image_with_text_2_qR7d9B": {
+      "type": "ss-image-with-text-2",
+      "blocks": {
+        "block_qjF3VD": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_4.png",
+            "title": "Hand of craftsman",
+            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "button_text": "VISIT WEBSITE",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_qjF3VD"
+      ],
+      "custom_css": [
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
+      ],
+      "name": "SS - Image/Text overlap",
+      "settings": {
+        "background-color": "#1e1e1e",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 1.5,
+        "text_aligment": "left",
+        "section_title_size": 23,
+        "section_color_h2": "#fec408",
+        "section_text_size": 14,
+        "section_color_p": "#ffffff",
+        "section_btn_size": 14,
+        "section_btn_roundness": 0,
+        "btn_color": "#fec408",
+        "btn_text_color": "#1e1e1e",
+        "section-width": 105
+      }
+    },
+    "ss_image_with_text_2_nCqUzA": {
+      "type": "ss-image-with-text-2",
+      "blocks": {
+        "block_kwexcH": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_4.png",
+            "title": "Hand of craftsman",
+            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "button_text": "VISIT WEBSITE",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_kwexcH"
+      ],
+      "name": "SS - Image/Text overlap",
+      "settings": {
+        "background-color": "#1e1e1e",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 1.5,
+        "text_aligment": "left",
+        "section_title_size": 23,
+        "section_color_h2": "#fec408",
+        "section_text_size": 14,
+        "section_color_p": "#ffffff",
+        "section_btn_size": 14,
+        "section_btn_roundness": 0,
+        "btn_color": "#fec408",
+        "btn_text_color": "#1e1e1e",
+        "section-width": 105
+      }
+    },
+    "ss_image_with_text_2_YYqiWC": {
+      "type": "ss-image-with-text-2",
+      "blocks": {
+        "block_VEGhEX": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_4.png",
+            "title": "Hand of craftsman",
+            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "button_text": "VISIT WEBSITE",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_VEGhEX"
+      ],
+      "custom_css": [
+        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}"
+      ],
+      "name": "SS - Image/Text overlap",
+      "settings": {
+        "background-color": "#1e1e1e",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 1.5,
+        "text_aligment": "right",
+        "section_title_size": 23,
+        "section_color_h2": "#fec408",
+        "section_text_size": 14,
+        "section_color_p": "#ffffff",
+        "section_btn_size": 14,
+        "section_btn_roundness": 0,
+        "btn_color": "#fec408",
+        "btn_text_color": "#1e1e1e",
+        "section-width": 105
+      }
     }
   },
   "order": [
     "main",
     "ss_image_with_text_2_r9YE9R",
-    "ss_image_with_text_2_YbEpdT"
+    "ss_image_with_text_2_YbEpdT",
+    "ss_image_with_text_2_qR7d9B",
+    "ss_image_with_text_2_YYqiWC",
+    "ss_image_with_text_2_nCqUzA"
   ]
 }

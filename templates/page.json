@@ -50,10 +50,46 @@
         "btn_text_color": "#1e1e1e",
         "section-width": 120
       }
+    },
+    "ss_image_with_text_2_YbEpdT": {
+      "type": "ss-image-with-text-2",
+      "blocks": {
+        "block_N6Fz7m": {
+          "type": "block",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design_4.png",
+            "title": "Hand of craftsman",
+            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "button_text": "VISIT WEBSITE",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "block_N6Fz7m"
+      ],
+      "name": "SS - Image/Text overlap",
+      "settings": {
+        "background-color": "#1e1e1e",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 1.5,
+        "text_aligment": "right",
+        "section_title_size": 23,
+        "section_color_h2": "#fec408",
+        "section_text_size": 14,
+        "section_color_p": "#ffffff",
+        "section_btn_size": 14,
+        "section_btn_roundness": 0,
+        "btn_color": "#fec408",
+        "btn_text_color": "#1e1e1e",
+        "section-width": 120
+      }
     }
   },
   "order": [
     "main",
-    "ss_image_with_text_2_r9YE9R"
+    "ss_image_with_text_2_r9YE9R",
+    "ss_image_with_text_2_YbEpdT"
   ]
 }

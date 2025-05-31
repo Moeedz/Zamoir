@@ -30,7 +30,7 @@
         ".button,.product-item__quick-buy-button {background: #1e1e1e !important; color: #fec408 !important; text-transform: uppercase !important; font-family: \"Font-1747759538480\" !important; border: unset !important;}"
       ],
       "settings": {
-        "show_sort_by": true,
+        "show_sort_by": false,
         "products_per_page": 24,
         "mobile_products_per_row": "2",
         "desktop_products_per_row": 4,

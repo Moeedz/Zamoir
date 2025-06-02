@@ -270,7 +270,7 @@
           "type": "tab",
           "settings": {
             "title": "Title",
-            "icon": "atc",
+            "icon": "newsletter",
             "text": "<p>Text</p>",
             "use_description": true
           }
@@ -316,7 +316,7 @@
         "tab_padding_horizontal_mobile": 16,
         "tab_padding_vertical": 18,
         "tab_padding_vertical_mobile": 18,
-        "tab_radius": 16,
+        "tab_radius": 0,
         "tab_border_thickness": 1,
         "tab_mt": 10,
         "tab_mt_mobile": 10,

@@ -14,6 +14,7 @@
       "blocks": {
         "79f59e69-c0a7-44b7-a418-53eab877b449": {
           "type": "inventory",
+          "disabled": true,
           "settings": {
             "low_inventory_threshold": 0
           }

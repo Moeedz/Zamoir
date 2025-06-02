@@ -404,11 +404,11 @@
         "image_8D7Gti": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-06-02_at_23.36.29_c28c3f56.jpg",
+            "image": "shopify://shop_images/Hire-us-banner.jpg",
             "text_position": "middle_left",
-            "subheading": "WHY HIRE US?",
-            "title": "Less talk, more results",
-            "button_1_text": "HIRE US",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
             "button_2_link": "",

@@ -269,8 +269,8 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "Title",
-            "icon": "newsletter",
+            "title": "<b>Theme Description</b>",
+            "icon": "chat-dots",
             "text": "<p>Text</p>",
             "use_description": true
           }

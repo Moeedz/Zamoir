@@ -25,7 +25,7 @@
         "block_fpDVUW": {
           "type": "block",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-06-03_at_22.16.53_3fba96d9.jpg",
+            "image": "shopify://shop_images/1.jpg",
             "title": "Hand of craftsman",
             "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
             "button_text": "VISIT WEBSITE",
@@ -39,7 +39,7 @@
       "custom_css": [
         ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
         "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
-        " img{border-radius: 15px;}"
+        "img {border-radius: 15px;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {
@@ -65,7 +65,7 @@
         "block_N6Fz7m": {
           "type": "block",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_4.png",
+            "image": "shopify://shop_images/2.jpg",
             "title": "Hand of craftsman",
             "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
             "button_text": "VISIT WEBSITE",
@@ -104,7 +104,7 @@
         "block_qjF3VD": {
           "type": "block",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_4.png",
+            "image": "shopify://shop_images/3.jpg",
             "title": "Hand of craftsman",
             "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
             "button_text": "VISIT WEBSITE",
@@ -143,7 +143,7 @@
         "block_VEGhEX": {
           "type": "block",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_4.png",
+            "image": "shopify://shop_images/4.jpg",
             "title": "Hand of craftsman",
             "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
             "button_text": "VISIT WEBSITE",
@@ -182,7 +182,7 @@
         "block_kwexcH": {
           "type": "block",
           "settings": {
-            "image": "shopify://shop_images/Untitled_design_4.png",
+            "image": "shopify://shop_images/5.jpg",
             "title": "Hand of craftsman",
             "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
             "button_text": "VISIT WEBSITE",

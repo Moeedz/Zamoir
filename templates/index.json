@@ -405,6 +405,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Hire-us-banner_5714efc8-5b41-4b9d-be83-1433f3033be2.jpg",
+            "mobile_image": "shopify://shop_images/Mobile-Banner.jpg",
             "text_position": "middle_left",
             "subheading": "",
             "title": "",

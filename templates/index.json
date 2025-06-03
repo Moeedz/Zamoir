@@ -423,6 +423,9 @@
       "block_order": [
         "image_8D7Gti"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.slideshow__slide-inner .container {max-width: 98.5% !important; top: 150px !important; position: relative;}}"
+      ],
       "name": "Slideshow",
       "settings": {
         "section_height": "auto",

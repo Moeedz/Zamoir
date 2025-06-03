@@ -38,8 +38,7 @@
       ],
       "custom_css": [
         ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
-        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
-        ".section-template--24694647357730__ss_image_with_text_2_r9YE9R-padding .img-with-text::after {border-radius: 15px !important;}"
+        "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {

@@ -275,7 +275,7 @@
           "settings": {
             "title": "Theme Description",
             "icon": "chat-dots",
-            "text": "<h2><em>Theme will be available to download after checkout</em></h2>",
+            "text": "<h4><em>Theme will be available to download after checkout</em></h4>",
             "use_description": false
           }
         },

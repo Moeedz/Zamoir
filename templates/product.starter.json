@@ -273,10 +273,10 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "<b>Theme Description</b>",
+            "title": "Theme Description",
             "icon": "chat-dots",
-            "text": "<p>Text</p>",
-            "use_description": true
+            "text": "<h2><em>Theme will be available to download after checkout</em></h2>",
+            "use_description": false
           }
         },
         "tab_jKmQP4": {

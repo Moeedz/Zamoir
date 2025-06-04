@@ -106,10 +106,10 @@
           "type": "block",
           "settings": {
             "image": "shopify://shop_images/3.jpg",
-            "title": "Hand of craftsman",
-            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "title": "Chrome Space",
+            "text": "<p>Chrome Space is where futuristic design meets everyday wear. We craft bold, elevated essentials for those who move differently — blending clean lines, cosmic tones, and next-gen silhouettes. Built for self-expression and made to stand out, every piece pushes fashion forward without leaving comfort behind.</p>",
             "button_text": "VISIT WEBSITE",
-            "button_url": ""
+            "button_url": "https://chrome-space.com/"
           }
         }
       },

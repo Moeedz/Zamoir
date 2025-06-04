@@ -66,10 +66,10 @@
           "type": "block",
           "settings": {
             "image": "shopify://shop_images/2.jpg",
-            "title": "Hand of craftsman",
-            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "title": "open throttle",
+            "text": "<p>Open Throttle is built for drivers who demand more — more power, more precision, and more personality from their BMW. We’re a crew of enthusiasts obsessed with sourcing and creating upgrades that make a real difference. From sharper styling to track-ready performance, we’ve got your back with parts that fit right, ship fast, and deliver every time.</p>",
             "button_text": "VISIT WEBSITE",
-            "button_url": ""
+            "button_url": "https://openthrottle.co/"
           }
         }
       },

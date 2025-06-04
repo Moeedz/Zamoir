@@ -280,7 +280,7 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "Theme Description",
+            "title": "<b>Theme Description</b>",
             "icon": "chat-dots",
             "custom_icon": "shopify://shop_images/info.png",
             "text": "<h4><em>Theme will be available to download after checkout</em></h4>",
@@ -290,7 +290,7 @@
         "tab_jKmQP4": {
           "type": "tab",
           "settings": {
-            "title": "Key Features",
+            "title": "<b>Key Features</b>",
             "icon": "atc",
             "custom_icon": "shopify://shop_images/11522592.png",
             "text": "<p>Text</p>",
@@ -326,7 +326,7 @@
         "tab_mt_mobile": 10,
         "title_gap": 12,
         "title_gap_mobile": 12,
-        "title_icon_size": 22,
+        "title_icon_size": 31,
         "title_icon_size_mobile": 20,
         "title_custom": false,
         "title_font": "josefin_sans_n4",

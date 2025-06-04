@@ -298,8 +298,9 @@
         "tab_i3ipXp": {
           "type": "tab",
           "settings": {
-            "title": "<b>Why Choose Zamoir Starter</b>",
+            "title": "Why Choose Zamoir Starter",
             "icon": "atc",
+            "custom_icon": "shopify://shop_images/pngimg.com_-_question_mark_PNG41.png",
             "text": "<p>Text</p>",
             "use_description": false
           }

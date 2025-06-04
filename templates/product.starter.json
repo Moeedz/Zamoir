@@ -280,8 +280,9 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "<b>Theme Description</b>",
+            "title": "Theme Description",
             "icon": "chat-dots",
+            "custom_icon": "shopify://shop_images/info.png",
             "text": "<h4><em>Theme will be available to download after checkout</em></h4>",
             "use_description": false
           }
@@ -289,8 +290,9 @@
         "tab_jKmQP4": {
           "type": "tab",
           "settings": {
-            "title": "<b>Key Features</b>",
+            "title": "Key Features",
             "icon": "atc",
+            "custom_icon": "shopify://shop_images/11522592.png",
             "text": "<p>Text</p>",
             "use_description": false
           }

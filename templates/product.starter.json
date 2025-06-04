@@ -273,7 +273,7 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "Theme Description",
+            "title": "<b>Theme Description</b>",
             "icon": "chat-dots",
             "text": "<h4><em>Theme will be available to download after checkout</em></h4>",
             "use_description": false
@@ -282,7 +282,7 @@
         "tab_jKmQP4": {
           "type": "tab",
           "settings": {
-            "title": "Title",
+            "title": "<b>Key Features</b>",
             "icon": "atc",
             "text": "<p>Text</p>",
             "use_description": false
@@ -291,16 +291,7 @@
         "tab_i3ipXp": {
           "type": "tab",
           "settings": {
-            "title": "Title",
-            "icon": "atc",
-            "text": "<p>Text</p>",
-            "use_description": false
-          }
-        },
-        "tab_dmFtkt": {
-          "type": "tab",
-          "settings": {
-            "title": "Title",
+            "title": "<b>Why Choose Zamoir Starter</b>",
             "icon": "atc",
             "text": "<p>Text</p>",
             "use_description": false
@@ -310,8 +301,7 @@
       "block_order": [
         "tab_XDkx3W",
         "tab_jKmQP4",
-        "tab_i3ipXp",
-        "tab_dmFtkt"
+        "tab_i3ipXp"
       ],
       "name": "SS - Product tabs #5",
       "settings": {

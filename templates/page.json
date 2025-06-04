@@ -37,7 +37,7 @@
         "block_fpDVUW"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        ".img-with-text .text-block .btn {padding: 11px 60px !important;}",
         "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
         "img {border-radius: 15px;}",
         "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important; }}"
@@ -78,7 +78,7 @@
         "block_N6Fz7m"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        ".img-with-text .text-block .btn {padding: 11px 60px !important;}",
         "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
         "img {border-radius: 15px;}",
         "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important; }}"
@@ -119,7 +119,7 @@
         "block_qjF3VD"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        ".img-with-text .text-block .btn {padding: 11px 60px !important;}",
         "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
         "img {border-radius: 15px;}",
         "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important; }}"
@@ -160,7 +160,7 @@
         "block_VEGhEX"
       ],
       "custom_css": [
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        ".img-with-text .text-block .btn {padding: 11px 60px !important;}",
         "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
         "img {border-radius: 15px;}",
         "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important; }}"
@@ -201,11 +201,11 @@
         "block_kwexcH"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important;}}",
-        ".img-with-text .text-block .btn {padding: 11px 60px !important; clip-path: polygon( 5% 0, 100% 0, 100% 80%, 95% 100%, 0 100%, 0 20% ) !important;}",
+        "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important; }}",
+        ".img-with-text .text-block .btn {padding: 11px 60px !important;}",
         "a.btn.ss-btn {background: #1e1e1e !important; color: #fec408 !important;}",
         "img {border-radius: 15px;}",
-        "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important;}}"
+        "@media screen and (min-width: 768px) {.img-with-text .text-block .brick__block__text {padding-left: 5vw !important; padding-right: 5vw !important; }}"
       ],
       "name": "SS - Image/Text overlap",
       "settings": {

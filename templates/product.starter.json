@@ -130,6 +130,9 @@
       "block_order": [
         "template--18488741593356__3acbed45-0150-4bc5-aacb-1cb0c5292ace-item-1"
       ],
+      "custom_css": [
+        ".image-with-text {background: #1e1e1e;}"
+      ],
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
@@ -161,6 +164,9 @@
       "block_order": [
         "template--18488741593356__267a48dc-1b4f-4ea6-a377-2afd26f089bb-item-1"
       ],
+      "custom_css": [
+        ".image-with-text {background: #1e1e1e;}"
+      ],
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
@@ -191,6 +197,9 @@
       },
       "block_order": [
         "template--18488741593356__f88c8bbd-3342-4e92-bb27-5a017fbacfc1-item-1"
+      ],
+      "custom_css": [
+        ".image-with-text {background: #1e1e1e;}"
       ],
       "settings": {
         "reveal_on_scroll": true,

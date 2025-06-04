@@ -131,7 +131,8 @@
         "template--18488741593356__3acbed45-0150-4bc5-aacb-1cb0c5292ace-item-1"
       ],
       "custom_css": [
-        ".image-with-text {background: #1e1e1e;}"
+        ".image-with-text {background: #1e1e1e;}",
+        "@media screen and (min-width: 768px) {.image-with-text__wrapper {padding: 0 !important; } .image-with-text .container {max-width: 1400px !important;}}"
       ],
       "settings": {
         "reveal_on_scroll": true,

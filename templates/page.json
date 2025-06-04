@@ -186,10 +186,10 @@
           "type": "block",
           "settings": {
             "image": "shopify://shop_images/5.jpg",
-            "title": "Hand of craftsman",
-            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "title": "coszus",
+            "text": "<p>Coszus is built for guys who like to keep it real — clean fits, sharp edges, and zero fuss. From laid-back hoodies to staple hats, we focus on comfort, quality, and everyday style that speaks for itself. No overthinking — just gear that gets you.</p>",
             "button_text": "VISIT WEBSITE",
-            "button_url": ""
+            "button_url": "https://www.coszus.com/"
           }
         }
       },

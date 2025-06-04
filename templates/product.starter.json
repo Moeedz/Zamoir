@@ -139,10 +139,10 @@
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -174,10 +174,10 @@
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "right",
-        "text_alignment": "center",
+        "text_alignment": "right",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }
@@ -202,17 +202,17 @@
       ],
       "custom_css": [
         ".image-with-text {background: #1e1e1e;}",
-        "@media screen and (min-width: 768px) {.image-with-text__wrapper {padding: 0 !important; } .image-with-text .container {max-width: 1400px !important; } section {margin: 0 !important;}}"
+        "@media screen and (min-width: 768px) {.image-with-text__wrapper {padding: 0 !important; } .image-with-text .container {max-width: 1400px !important; } section {margin: 0 !important; }}"
       ],
       "settings": {
         "reveal_on_scroll": true,
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "left",
-        "text_alignment": "center",
+        "text_alignment": "left",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
+        "text_color": "#ffffff",
         "button_background": "rgba(0,0,0,0)",
         "button_text_color": "rgba(0,0,0,0)"
       }

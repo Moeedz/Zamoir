@@ -26,10 +26,10 @@
           "type": "block",
           "settings": {
             "image": "shopify://shop_images/1.jpg",
-            "title": "Hand of craftsman",
-            "text": "<p>At the heart of the object, there is the breath andt he hand of the craftsman. The one who blows the glass and leaves in each piece a complement of soul, the one who delicately pours the wax layer by layer. At the heart of the object there are also the materials, which allow our collections to express all their nobility.</p>",
+            "title": "Seven QUARTERS",
+            "text": "<p>Seven Quarters (7Q) is a clothing brand built on the idea that simplicity, when done right, can say the most. We create clean, considered pieces that feel good to wear, the kind you reach for every day without overthinking. With an eye for detail and a focus on quality, each item is made to move with you, last, and look effortlessly put together. At 7Q, it's not about trends — it's about timeless style with a modern edge.</p>",
             "button_text": "VISIT WEBSITE",
-            "button_url": ""
+            "button_url": "https://seven-quarters.com/"
           }
         }
       },

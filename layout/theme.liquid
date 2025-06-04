@@ -19,6 +19,13 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
   <head>
     {% if template contains 'product' %}
 <style>
+  .block-swatch__radio:checked+.block-swatch__item {
+    background: #FEC408 !important;
+    font-weight: bold !important;
+}
+  .block-swatch__item {
+    border: unset !important;
+}
 .shopify-section--main-product {
     background: #1e1e1e !important;
 }

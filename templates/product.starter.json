@@ -57,6 +57,9 @@
         "buy_buttons",
         "liquid_J9a83z"
       ],
+      "custom_css": [
+        ".product-form__option-value {display: none !important;}"
+      ],
       "settings": {
         "show_vendor": false,
         "show_sku": false,

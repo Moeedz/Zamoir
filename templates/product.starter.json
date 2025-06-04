@@ -202,7 +202,7 @@
       ],
       "custom_css": [
         ".image-with-text {background: #1e1e1e;}",
-        "@media screen and (min-width: 768px) {.image-with-text__wrapper {padding: 0 !important; } .image-with-text .container {max-width: 1400px !important; } section {margin: 0 !important; } .image-with-text__content-list {margin-inline-start: 22% !important;}}"
+        "@media screen and (min-width: 768px) {.image-with-text__wrapper {padding: 0 !important; } .image-with-text .container {max-width: 1400px !important; } section {margin: 0 !important; } .image-with-text__content-list {margin-inline-start: 22% !important; }}"
       ],
       "settings": {
         "reveal_on_scroll": true,
@@ -292,9 +292,9 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "<b>Theme Description</b>",
+            "title": "Theme Description",
             "icon": "chat-dots",
-            "custom_icon": "shopify://shop_images/info.png",
+            "custom_icon": "shopify://shop_images/faq-01.png",
             "text": "<h4><em>Theme will be available to download after checkout</em></h4>",
             "use_description": false
           }
@@ -302,9 +302,9 @@
         "tab_jKmQP4": {
           "type": "tab",
           "settings": {
-            "title": "<b>Key Features</b>",
+            "title": "Key Features",
             "icon": "atc",
-            "custom_icon": "shopify://shop_images/11522592.png",
+            "custom_icon": "shopify://shop_images/faq-02.png",
             "text": "<p>Text</p>",
             "use_description": false
           }
@@ -312,9 +312,9 @@
         "tab_i3ipXp": {
           "type": "tab",
           "settings": {
-            "title": "<b>Why Choose Zamoir Starter</b>",
+            "title": "Why Choose Zamoir Starter",
             "icon": "atc",
-            "custom_icon": "shopify://shop_images/pngimg.com_-_question_mark_PNG41.png",
+            "custom_icon": "shopify://shop_images/faq-03.png",
             "text": "<p>Text</p>",
             "use_description": false
           }

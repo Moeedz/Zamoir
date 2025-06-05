@@ -121,7 +121,7 @@
             "tab_label": "",
             "subheading": "",
             "title": "Home Page",
-            "content": "<p>Erlebe ein<strong> unvergleichliches </strong>Trageerlebnis dank des ultradünnen Designs. Das exquisit gefertigte Gehäuse aus <strong>edlem Metall</strong>, kombiniert mit einer erstaunlichen Dicke von nur 6,8 mm, verleiht nicht nur einen <strong>atemberaubenden Anblick</strong>, sondern auch ein federleichtes Gefühl am Handgelenk.</p>",
+            "content": "<p>Your first impression matters, make it count with a homepage that tells your story and grabs attention right away. It’s clean, bold, and built to keep people scrolling.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -156,7 +156,7 @@
             "tab_label": "",
             "subheading": "",
             "title": "Product Page",
-            "content": "<p>Die Smartwatch verfügt über eine außergewöhnlich <strong>starke Akkulaufzeit</strong> und kann innerhalb von nur 2 Stunden vollständig aufgeladen werden. Die Batterie hält 5 bis 7<strong> </strong>Tage und kann sogar im Standbymodus bis zu 15 Tage lang genutzt werden.</p>",
+            "content": "<p>Give your products the spotlight they deserve with a layout that’s clear, convincing, and easy to shop. From features to photos, everything’s designed to help customers say yes.</p>",
             "button_text": "",
             "button_link": ""
           }
@@ -174,7 +174,7 @@
         "background_type": "full_width",
         "background_overlap": "image",
         "image_position": "right",
-        "text_alignment": "right",
+        "text_alignment": "left",
         "cycle_speed": 8,
         "accent_background": "rgba(0,0,0,0)",
         "text_color": "#ffffff",
@@ -191,7 +191,7 @@
             "tab_label": "",
             "subheading": "",
             "title": "Collection page",
-            "content": "<p>Die Smartwatch ist mehr als nur eine Uhr – Von <strong>Anruf- und Nachrichtenanzeige</strong> bis hin zu <strong>WhatsApp, Schrittzähler, Herzfrequenzmessung, Blutdruck- und Sauerstoffsättigung, </strong>Schlaf-Tracking, Trinkerinnerung, Wecker, Musiksteuerung bis hin zu einer Vielzahl von Sportmodi und mehr.</p>",
+            "content": "<p>Help shoppers find what they love, fast. Your collections stay organized, easy to browse, and visually on point, no matter how many products you have.</p>",
             "button_text": "",
             "button_link": ""
           }

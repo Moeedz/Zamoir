@@ -255,13 +255,6 @@
     "ea3969f8-b6ed-460b-b7d1-3669ac93d7b8": {
       "type": "faq",
       "blocks": {
-        "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-category-1": {
-          "type": "category",
-          "disabled": true,
-          "settings": {
-            "title": "Shipping"
-          }
-        },
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-1": {
           "type": "question",
           "settings": {
@@ -299,7 +292,6 @@
         }
       },
       "block_order": [
-        "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-category-1",
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-1",
         "0be602b7-9c3a-46fd-9555-11bb723bef3b",
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-2",
@@ -308,7 +300,7 @@
       ],
       "settings": {
         "show_navigation": false,
-        "title": "Häufig gestellte Fragen",
+        "title": "Frequently Asked Questions",
         "content": "",
         "background": "#1e1e1e",
         "text_color": "#ffffff"

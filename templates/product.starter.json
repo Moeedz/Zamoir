@@ -120,7 +120,7 @@
           "settings": {
             "tab_label": "",
             "subheading": "",
-            "title": "Leichtigkeit & Tragekomfort",
+            "title": "Home Page",
             "content": "<p>Erlebe ein<strong> unvergleichliches </strong>Trageerlebnis dank des ultradünnen Designs. Das exquisit gefertigte Gehäuse aus <strong>edlem Metall</strong>, kombiniert mit einer erstaunlichen Dicke von nur 6,8 mm, verleiht nicht nur einen <strong>atemberaubenden Anblick</strong>, sondern auch ein federleichtes Gefühl am Handgelenk.</p>",
             "button_text": "",
             "button_link": ""
@@ -153,9 +153,9 @@
         "template--18488741593356__267a48dc-1b4f-4ea6-a377-2afd26f089bb-item-1": {
           "type": "item",
           "settings": {
-            "tab_label": "Item",
+            "tab_label": "",
             "subheading": "",
-            "title": "Superstarker Powerakku",
+            "title": "Product Page",
             "content": "<p>Die Smartwatch verfügt über eine außergewöhnlich <strong>starke Akkulaufzeit</strong> und kann innerhalb von nur 2 Stunden vollständig aufgeladen werden. Die Batterie hält 5 bis 7<strong> </strong>Tage und kann sogar im Standbymodus bis zu 15 Tage lang genutzt werden.</p>",
             "button_text": "",
             "button_link": ""
@@ -188,9 +188,9 @@
         "template--18488741593356__f88c8bbd-3342-4e92-bb27-5a017fbacfc1-item-1": {
           "type": "item",
           "settings": {
-            "tab_label": "Item",
+            "tab_label": "",
             "subheading": "",
-            "title": "Innovation am Handgelenk",
+            "title": "Collection page",
             "content": "<p>Die Smartwatch ist mehr als nur eine Uhr – Von <strong>Anruf- und Nachrichtenanzeige</strong> bis hin zu <strong>WhatsApp, Schrittzähler, Herzfrequenzmessung, Blutdruck- und Sauerstoffsättigung, </strong>Schlaf-Tracking, Trinkerinnerung, Wecker, Musiksteuerung bis hin zu einer Vielzahl von Sportmodi und mehr.</p>",
             "button_text": "",
             "button_link": ""

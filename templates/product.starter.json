@@ -258,36 +258,29 @@
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-1": {
           "type": "question",
           "settings": {
-            "title": "Welche Länge hat das Armband?",
-            "answer": "<p>Unsere Armbänder sind standardmäßig 25 cm lang und passen daher perfekt für jede Handgelenksgröße, egal ob dünn oder etwas kräftiger. <br/><br/>Dies liegt an der individuellen Einstellbarkeit des Verschlusses, die es ermöglicht, das Armband an die jeweilige Größe anzupassen.</p>"
+            "title": "I need help setting it up",
+            "answer": "<p>If you want us to handle installation, then select \"Install It On My Store\" and we will contact you for information and begin installation, turnaround is 24-48 business hours.</p>"
           }
         },
         "0be602b7-9c3a-46fd-9555-11bb723bef3b": {
           "type": "question",
           "settings": {
-            "title": "Wie erziele ich die besten Trackingergebnisse?",
-            "answer": "<p>Um optimale Tracking-Ergebnisse zu erzielen, entferne bitte die Schutzfolie auf der Unterseite der Uhr.</p>"
+            "title": "I want to contact you before the purchase",
+            "answer": "<p>Contact us at support@zamoir.com or @zamoir on instagram and we will answer all questions and help you decide if ZAMOIR STARTER PACK is right for your brand</p>"
           }
         },
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-2": {
           "type": "question",
           "settings": {
-            "title": "Liegt eine Bedienungsanleitung bei?",
-            "answer": "<p>Ja, selbstverständlich. Die Einrichtung ist sehr einfach und du kannst die Schritte mithilfe der Anleitung problemlos 1:1 nachvollziehen.<br/></p>"
-          }
-        },
-        "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-3": {
-          "type": "question",
-          "settings": {
-            "title": "Wie lange ist die Akkulaufzeit?",
-            "answer": "<p>Der Akku unserer Smartwatch bietet bei regelmäßiger Nutzung eine Betriebsdauer von 5-7 Tagen, bevor eine erneute Aufladung erforderlich ist. <br/><br/>Im Standby-Modus sogar  eine Batterielaufzeit von bis zu 15 Tagen, bevor man wieder aufladen muss.</p>"
+            "title": "Is the payment secure?",
+            "answer": "<p>Yes, all payments are processed through secure and encrypted payment gateways. We use industry-standard SSL encryption to ensure your personal and payment information stays safe and protected.</p>"
           }
         },
         "07455359-a8fb-4f4c-811d-f7a5f121c4e4": {
           "type": "question",
           "settings": {
-            "title": "Welche Größe hat das Display?",
-            "answer": "<p>Die Smartwatch bietet ein eindrucksvolles, großes 1,36-Zoll-HD-Display. Dieses Display erstreckt sich bis zum Rand und harmoniert perfekt mit dem stilvollen runden Edelmetallgehäuse der SmartWatch. Dadurch wird nicht nur das Tippen und Wischen sehr einfach, sondern auch das gesamte Erscheinungsbild der Uhr besonders ansprechend und modern.</p>"
+            "title": "Is ongoing maintenance and support available?",
+            "answer": "<p>Yes, we provide secure payment via credit card or PayPal. You can view all payment options on the checkout page.</p>"
           }
         }
       },
@@ -295,7 +288,6 @@
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-1",
         "0be602b7-9c3a-46fd-9555-11bb723bef3b",
         "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-2",
-        "template--18488741593356__ea3969f8-b6ed-460b-b7d1-3669ac93d7b8-question-3",
         "07455359-a8fb-4f4c-811d-f7a5f121c4e4"
       ],
       "settings": {

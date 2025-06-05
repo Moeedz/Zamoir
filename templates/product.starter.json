@@ -292,10 +292,10 @@
         "tab_XDkx3W": {
           "type": "tab",
           "settings": {
-            "title": "<b>Theme Description</b>",
+            "title": "Theme Description",
             "icon": "chat-dots",
             "custom_icon": "shopify://shop_images/faq-01.png",
-            "text": "<h4><em>Theme will be available to download after checkout</em></h4>",
+            "text": "<p>With the help of the Zamoir Starter Pack, a stylish, quick, and completely customizable theme made for e-commerce entrepreneurs, service providers, and creators, you can create a successful Shopify store. Zamoir Starter gives you all you need to build an eye-catching storefront that converts, regardless of whether you're selling digital downloads, physical goods, courses, templates, or services.<br/><br/>In comparison with inflexible themes designed exclusively for a single product category, Zamoir Starter is designed for contemporary brands that, regardless of the product they sell, desire simple design, powerful messaging, and a straightforward user interface that builds trust and sales right away.<br/><br/></p>",
             "use_description": false
           }
         },
